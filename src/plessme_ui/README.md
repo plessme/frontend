@@ -27,7 +27,7 @@ Web Server • web-server • web-javascript • Flutter Tools
 
 ## Run
 
-$ `cd src/plessme_ui`<br>
+$ `cd plessme_ui`<br>
 $ `flutter run -d chrome`
 
 ## Help!
